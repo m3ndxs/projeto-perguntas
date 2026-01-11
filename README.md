@@ -41,7 +41,7 @@ Durante o desenvolvimento do app, foram abordados os conceitos:
 
 ## Como Executar o Projeto
 1. Clone o repositório:
-  ``git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/m3ndxs/projeto-perguntas.git)``
+  ``git clone https://github.com/m3ndxs/projeto-perguntas.git``
 
 2. Acesse a pasta do projeto:
    ``cd projeto-perguntas``
